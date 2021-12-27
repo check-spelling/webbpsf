@@ -1,0 +1,60 @@
+# See https://github.com/check-spelling/check-spelling/wiki/Configuration-Examples:-excludes
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)go\.sum$
+(?:^|/)package(?:-lock|)\.json$
+(?:^|/)vendor/
+ignore$
+\.ai$
+\.avi$
+\.bmp$
+\.bz2$
+\.crt$
+\.DS_Store$
+\.eot$
+\.gif$
+\.gitattributes$
+\.graffle$
+\.gz$
+\.icns$
+\.ico$
+\.jar$
+\.jpe?g$
+\.key$
+\.lock$
+\.map$
+\.min\..
+\.mod$
+\.mp[34]$
+\.ocf$
+\.otf$
+\.pdf$
+\.pem$
+\.png$
+\.psd$
+\.svg$
+\.ttf$
+\.wav$
+\.woff2?$
+\.zip$
+^\.github/
+^\Qdev_utils/Fit Time-Variant Thermal OPDs From Model.ipynb\E$
+^\Qdev_utils/Get Throughputs from Pandeia.ipynb\E$
+^\Qdev_utils/WFE_extrapolation.ipynb\E$
+^\Qdocs/field_dependence/multifield_documentation.ipynb\E$
+^\Qdocs/jwst_optical_budgets.ipynb\E$
+^\Qdocs/README figure.ipynb\E$
+^\Qdocs/requirements.txt\E$
+^\Qnotebooks/Distortion_examples.ipynb\E$
+^\Qnotebooks/Example Construction of OPDs from Delta Time After Slew.ipynb\E$
+^\Qnotebooks/Gridded_PSF_Library.ipynb\E$
+^\Qnotebooks/more_examples.ipynb\E$
+^\Qnotebooks/roman_coronagraph_demo.ipynb\E$
+^\Qnotebooks/Simulated OTE Mirror Move Demo.ipynb\E$
+^\Qnotebooks/Simulating PSF variation within JWST instruments.ipynb\E$
+^\Qnotebooks/WebbPSF-Roman_Tutorial.ipynb\E$
+^\Qnotebooks/WebbPSF_tutorial.ipynb\E$
+^\Qrequirements.txt\E$
+^\Qtox.ini\E$
+^\Qwebbpsf/otelm/coarse_track1_sim_pointing.fits\E$
+^\Qwebbpsf/otelm/coarse_track2_sim_pointing.fits\E$
